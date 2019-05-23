@@ -4,28 +4,28 @@
 # 运行方法
 在文章中SEE和BEAM, DECMDR, MACOED, SNPHarvester, SNPRuler, AntEpiSeeker进行了对比，以下为这些软件的原论文和软件的链接：  
 BEAM  
-https://www.researchgate.net/publication/6117902_Bayesian_inference_of_epistatic_interactions_in_case-control_studies?enrichId=rgreq-1d428109abb62fe1140ca9fff7f8d2fa-XXX&enrichSource=Y292ZXJQYWdlOzYxMTc5MDI7QVM6MTA0Njk1Njc4ODk4MTg1QDE0MDE5NzI4MDQ3MDI%3D&el=1_x_3&_esc=publicationCoverPdf
-https://sites.fas.harvard.edu/~junliu/BEAM/
-DECMDR
-https://academic.oup.com/bioinformatics/article/33/15/2354/3100457
-https://goo.gl/p9sLuJ
-MACOED
-https://academic.oup.com/bioinformatics/article/31/5/634/2748185
-http://www.csbio.sjtu.edu.cn/bioinf/MACOED/
-SNPHarvester
-https://academic.oup.com/bioinformatics/article/25/4/504/249552
-http://bioinformatics.ust.hk/SNPHarvester.html
-SNPRuler
-https://academic.oup.com/bioinformatics/article/26/1/30/182742
-http://bioinformatics.ust.hk/SNPRuler.zip
-为防止这些链接挂掉，本网页也上传了这些软件。
-SEE的可执行文件和运行方法稍后更新
-# 源码
-稍后更新
-# 数据
-SEE的文章中，真实数据为非公开数据集，您可以自行去WTCCC的网站申请使用，我没有权利发布给您。
-因此，本文只提供模拟数据。
-模拟数据一共有72个，其中，12DME模型的数据是从MACOED的网站上下载的，一共1200个数据文件，每个上位性模型对应100个数据文件，60个DNME模型是由GAMETES_2.1这个软件根据DECMDR提供的penetrance tables生成的，DECMDR提供的penetrance tables在它文章的supplementary文件中，我根据它提供的word文件，整理成了GAMETES_2.1识别的模型文件，将在本网页中上传，您可以根据这些penetrance tables文件，使用GAMETES_2.1来生成DNME模拟数据集。
-GAMETES_2.1文章链接：https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-16
-GAMETES_2.1软件链接：http://sourceforge.net/projects/gametes/files/
-DME数据链接：http://www.csbio.sjtu.edu.cn/bioinf/MACOED/
+https://www.researchgate.net/publication/6117902_Bayesian_inference_of_epistatic_interactions_in_case-control_studies?enrichId=rgreq-1d428109abb62fe1140ca9fff7f8d2fa-XXX&enrichSource=Y292ZXJQYWdlOzYxMTc5MDI7QVM6MTA0Njk1Njc4ODk4MTg1QDE0MDE5NzI4MDQ3MDI%3D&el=1_x_3&_esc=publicationCoverPdf  
+https://sites.fas.harvard.edu/~junliu/BEAM/  
+DECMDR  
+https://academic.oup.com/bioinformatics/article/33/15/2354/3100457  
+https://goo.gl/p9sLuJ  
+MACOED  
+https://academic.oup.com/bioinformatics/article/31/5/634/2748185  
+http://www.csbio.sjtu.edu.cn/bioinf/MACOED/  
+SNPHarvester  
+https://academic.oup.com/bioinformatics/article/25/4/504/249552  
+http://bioinformatics.ust.hk/SNPHarvester.html  
+SNPRuler  
+https://academic.oup.com/bioinformatics/article/26/1/30/182742  
+http://bioinformatics.ust.hk/SNPRuler.zip  
+为防止这些链接挂掉，本网页也上传了这些软件。  
+SEE的可执行文件和运行方法稍后更新  
+# 源码  
+稍后更新  
+# 数据  
+SEE的文章中，真实数据为非公开数据集，您可以自行去WTCCC的网站申请使用，我没有权利发布给您。  
+因此，本文只提供模拟数据。  
+模拟数据一共有72个，其中，12DME模型的数据是从MACOED的网站上下载的，一共1200个数据文件，每个上位性模型对应100个数据文件，60个DNME模型是由GAMETES_2.1这个软件根据DECMDR提供的penetrance tables生成的，DECMDR提供的penetrance tables在它文章的supplementary文件中，我根据它提供的word文件，整理成了GAMETES_2.1识别的模型文件，将在本网页中上传，您可以根据这些penetrance tables文件，使用GAMETES_2.1来生成DNME模拟数据集。  
+GAMETES_2.1文章链接：https://biodatamining.biomedcentral.com/articles/10.1186/1756-0381-5-16  
+GAMETES_2.1软件链接：http://sourceforge.net/projects/gametes/files/  
+DME数据链接：http://www.csbio.sjtu.edu.cn/bioinf/MACOED/  
