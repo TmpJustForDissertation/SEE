@@ -21,7 +21,8 @@ http://bioinformatics.ust.hk/SNPRuler.zip
 为防止这些链接挂掉，本网页也上传了这些软件。  
 SEE的可执行文件和运行方法稍后更新  
 # 源码  
-稍后更新  
+我们已经将SEE的源码上传到Code Ocean上，您可以访问该网址获得https://codeocean.com/capsule/10b904e7-4692-4c62-aa49-85e90b28e483/。<br>
+The source code of SEE is at https://codeocean.com/capsule/10b904e7-4692-4c62-aa49-85e90b28e483/ in Code Ocean.<br>
 # 数据  
 SEE的文章中，真实数据为非公开数据集，您可以自行去WTCCC的网站申请使用，我没有权利发布给您。  
 因此，本文只提供模拟数据。  
